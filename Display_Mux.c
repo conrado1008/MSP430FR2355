@@ -5,9 +5,9 @@
  *      Author: Conrado Becker Gressler
  *      Instituto Federal de Santa Catarina
  *
- *      This program makes a counter count up to
- *      two maximum values (x and y) and displays
- *      on a LCD
+ *      This program makes one counter count up 
+ *      to a maximum value of x, and other that 
+ *      count from y to zero.
  */
 
 #include <msp430.h>
