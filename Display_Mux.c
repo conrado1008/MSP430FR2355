@@ -41,7 +41,7 @@ void main(void)
 
     while(1)
     {
-        x=0x80;
+        x=0x0;
         y=0x85;
         while(x<=0x84){
             x++;
