@@ -6,6 +6,8 @@
 *     of a remote controlled car via a bluetooth app
 *     creating, a communication protocol using UART
 *     and controlling speed using power-width-modulation
+*     also having an alternate mode to follow
+*     a black line.
 */
 
 
